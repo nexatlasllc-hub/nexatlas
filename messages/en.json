@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "siteName": "Nexatlas",
+    "tagline": "Discover Uzbekistan Beyond Expectations",
+    "defaultDescription": "Nexatlas crafts premium private and small-group journeys across Uzbekistan and the Silk Road — cultural tours, family trips, luxury and business travel, designed by local experts."
+  },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "tours": "Tours",
+    "experiences": "Experiences",
+    "travelGuide": "Travel Guide",
+    "about": "About",
+    "whyUs": "Why Nexatlas",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "planTrip": "Plan Your Trip"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "explore": "Explore",
+    "from": "from",
+    "perPerson": "per person",
+    "days": "days",
+    "viewTour": "View tour",
+    "exploreDestination": "Explore destination",
+    "getInTouch": "Get in touch",
+    "readMore": "Read more",
+    "selectLanguage": "Select language",
+    "searchDestination": "Destination",
+    "searchDates": "Dates",
+    "searchTravelers": "Travelers",
+    "searchType": "Tour type",
+    "searchAny": "Any",
+    "searchButton": "Find tours",
+    "searchDatesValue": "September 2026",
+    "searchTravelersValue": "2 adults"
+  },
+  "hero": {
+    "eyebrow": "Uzbekistan · The Heart of the Silk Road",
+    "title": "Discover Uzbekistan Beyond Expectations",
+    "subtitle": "Tailor-made cultural journeys, Silk Road adventures and luxury private tours — crafted by local experts who know every turquoise dome and hidden caravanserai.",
+    "primaryCta": "Plan Your Trip",
+    "secondaryCta": "Explore Tours"
+  },
+  "trust": {
+    "title": "Trusted by travelers from around the world",
+    "licensed": "Licensed Uzbekistan tour operator",
+    "rating": "4.9/5 average traveler rating",
+    "support": "24/7 on-trip support",
+    "tailorMade": "100% tailor-made itineraries",
+    "stat1Value": "10,000+",
+    "stat1Label": "Happy travelers",
+    "stat2Value": "15",
+    "stat2Label": "Years of expertise",
+    "stat3Value": "60+",
+    "stat3Label": "Curated journeys",
+    "stat4Value": "17",
+    "stat4Label": "Source markets served"
+  },
+  "destinations": {
+    "eyebrow": "Where to go",
+    "title": "Iconic Silk Road Destinations",
+    "subtitle": "From the turquoise mosques of Samarkand to the living museum of Khiva — explore the cities that shaped human history.",
+    "cta": "All destinations"
+  },
+  "tours": {
+    "eyebrow": "Our journeys",
+    "title": "Signature Uzbekistan Tours",
+    "subtitle": "Hand-crafted itineraries for every traveler — cultural explorers, families, luxury seekers and business guests.",
+    "cta": "Browse all tours",
+    "filterAll": "All",
+    "included": "What's included",
+    "excluded": "Not included",
+    "itinerary": "Day-by-day itinerary",
+    "highlights": "Highlights",
+    "duration": "Duration",
+    "bestFor": "Best for",
+    "inquire": "Inquire about this tour"
+  },
+  "themes": {
+    "cultural": "Cultural Tours",
+    "silkRoad": "Silk Road Journeys",
+    "private": "Private Tours",
+    "family": "Family Trips",
+    "luxury": "Luxury Travel",
+    "business": "Business Travel"
+  },
+  "experiences": {
+    "eyebrow": "Travel your way",
+    "title": "Experiences for Every Traveler",
+    "subtitle": "Whether you seek deep culture, family memories, refined luxury or seamless business travel, we design around you."
+  },
+  "why": {
+    "eyebrow": "Why Nexatlas",
+    "title": "Your trusted Uzbekistan destination expert",
+    "subtitle": "We are an Uzbekistan-based team turning first-time visitors into lifelong friends of the Silk Road.",
+    "point1Title": "Genuine local expertise",
+    "point1Body": "Born and based in Uzbekistan, our specialists craft journeys from firsthand knowledge — not a catalog.",
+    "point2Title": "Tailor-made, not templated",
+    "point2Body": "Every itinerary is built around your pace, interests and budget, from mid-range comfort to true luxury.",
+    "point3Title": "Reliability you can feel",
+    "point3Body": "Licensed, insured and reachable around the clock, with vetted guides, drivers and hand-picked hotels.",
+    "point4Title": "Exceptional service",
+    "point4Body": "One dedicated travel designer from your first message to your journey home."
+  },
+  "testimonials": {
+    "eyebrow": "Traveler stories",
+    "title": "What our guests say",
+    "subtitle": "Real words from travelers who discovered Uzbekistan with Nexatlas."
+  },
+  "journal": {
+    "eyebrow": "Travel Guide",
+    "title": "Stories & practical guides",
+    "subtitle": "Insider knowledge to plan an unforgettable Uzbekistan journey.",
+    "cta": "Read the guide"
+  },
+  "inquiry": {
+    "eyebrow": "Start planning",
+    "title": "Plan Your Trip",
+    "subtitle": "Tell us your travel dreams and a dedicated Nexatlas designer will craft a personalized proposal — free, no obligation.",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone / WhatsApp",
+    "country": "Country of residence",
+    "travelers": "Number of travelers",
+    "dates": "Approximate travel dates",
+    "interests": "Travel interests",
+    "budget": "Budget range",
+    "message": "Tell us about your dream trip",
+    "submit": "Request my free proposal",
+    "responseNote": "We typically respond within 24 hours.",
+    "successTitle": "Thank you!",
+    "successBody": "Your inquiry has been received. A Nexatlas travel designer will be in touch within 24 hours."
+  },
+  "footer": {
+    "about": "Nexatlas is a licensed Uzbekistan-based tour operator specializing in premium inbound travel across the Silk Road.",
+    "explore": "Explore",
+    "company": "Company",
+    "support": "Support",
+    "followUs": "Follow us",
+    "newsletterTitle": "Silk Road inspiration in your inbox",
+    "newsletterBody": "Travel ideas, seasonal tips and exclusive journeys.",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Your email",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookies": "Cookie Policy"
+  }
+}

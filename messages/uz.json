@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "siteName": "Nexatlas",
+    "tagline": "O'zbekistonni kutilganidan-da go'zalroq kashf eting",
+    "defaultDescription": "Nexatlas O'zbekiston va Buyuk Ipak yo'li bo'ylab premium individual va kichik guruhli sayohatlarni yaratadi — madaniy, oilaviy, hashamatli va biznes sayohatlar, mahalliy ekspertlar tomonidan."
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "destinations": "Yo'nalishlar",
+    "tours": "Turlar",
+    "experiences": "Tajribalar",
+    "travelGuide": "Sayohat qo'llanmasi",
+    "about": "Biz haqimizda",
+    "whyUs": "Nega Nexatlas",
+    "reviews": "Sharhlar",
+    "contact": "Aloqa",
+    "planTrip": "Sayohatni rejalashtirish"
+  },
+  "common": {
+    "learnMore": "Batafsil",
+    "viewAll": "Barchasini ko'rish",
+    "explore": "Kashf etish",
+    "from": "dan",
+    "perPerson": "bir kishi uchun",
+    "days": "kun",
+    "viewTour": "Turni ko'rish",
+    "exploreDestination": "Yo'nalishni ko'rish",
+    "getInTouch": "Bog'lanish",
+    "readMore": "Davomini o'qish",
+    "selectLanguage": "Tilni tanlang",
+    "searchDestination": "Yo'nalish",
+    "searchDates": "Sanalar",
+    "searchTravelers": "Sayohatchilar",
+    "searchType": "Tur turi",
+    "searchAny": "Har qanday",
+    "searchButton": "Turlarni topish",
+    "searchDatesValue": "2026 sentyabr",
+    "searchTravelersValue": "2 kattalar"
+  },
+  "hero": {
+    "eyebrow": "O'zbekiston · Ipak yo'lining yuragi",
+    "title": "O'zbekistonni kutilganidan-da go'zalroq kashf eting",
+    "subtitle": "Individual madaniy sayohatlar, Ipak yo'li sarguzashtlari va hashamatli xususiy turlar — har bir feruza gumbaz va yashirin karvonsaroyni biladigan mahalliy ekspertlardan.",
+    "primaryCta": "Sayohatni rejalashtirish",
+    "secondaryCta": "Turlarni ko'rish"
+  },
+  "trust": {
+    "title": "Butun dunyo sayohatchilari bizga ishonadi",
+    "licensed": "Litsenziyalangan O'zbekiston turoperatori",
+    "rating": "O'rtacha baho 4.9/5",
+    "support": "Sayohatda 24/7 qo'llab-quvvatlash",
+    "tailorMade": "100% individual marshrutlar",
+    "stat1Value": "10 000+",
+    "stat1Label": "Mamnun sayohatchilar",
+    "stat2Value": "15",
+    "stat2Label": "Yillik tajriba",
+    "stat3Value": "60+",
+    "stat3Label": "Maxsus sayohatlar",
+    "stat4Value": "17",
+    "stat4Label": "Xizmat ko'rsatiladigan bozorlar"
+  },
+  "destinations": {
+    "eyebrow": "Qayerga borish",
+    "title": "Ipak yo'lining mashhur yo'nalishlari",
+    "subtitle": "Samarqandning feruza masjidlaridan Xivaning ochiq osmon ostidagi muzeyigacha — insoniyat tarixini shakllantirgan shaharlarni kashf eting.",
+    "cta": "Barcha yo'nalishlar"
+  },
+  "tours": {
+    "eyebrow": "Bizning sayohatlar",
+    "title": "O'zbekiston bo'ylab nishonli turlar",
+    "subtitle": "Har bir sayohatchi uchun maxsus marshrutlar — madaniyat ixlosmandlari, oilalar, hashamat va biznes mehmonlari uchun.",
+    "cta": "Barcha turlar",
+    "filterAll": "Barchasi",
+    "included": "Narxga kiritilgan",
+    "excluded": "Kiritilmagan",
+    "itinerary": "Kunma-kun marshrut",
+    "highlights": "Asosiy nuqtalar",
+    "duration": "Davomiyligi",
+    "bestFor": "Kimlar uchun",
+    "inquire": "Ushbu tur bo'yicha so'rov"
+  },
+  "themes": {
+    "cultural": "Madaniy turlar",
+    "silkRoad": "Ipak yo'li sayohatlari",
+    "private": "Xususiy turlar",
+    "family": "Oilaviy sayohatlar",
+    "luxury": "Hashamatli sayohat",
+    "business": "Biznes sayohat"
+  },
+  "experiences": {
+    "eyebrow": "O'zingizcha sayohat qiling",
+    "title": "Har bir sayohatchi uchun tajribalar",
+    "subtitle": "Chuqur madaniyat, oilaviy xotiralar, nafis hashamat yoki uzluksiz biznes sayohati — biz sizning atrofingizda quramiz."
+  },
+  "why": {
+    "eyebrow": "Nega Nexatlas",
+    "title": "O'zbekiston bo'yicha ishonchli ekspertingiz",
+    "subtitle": "Biz O'zbekistonda joylashgan jamoamiz, ilk bor kelgan mehmonlarni Ipak yo'lining umrbod do'stlariga aylantiramiz.",
+    "point1Title": "Haqiqiy mahalliy tajriba",
+    "point1Body": "O'zbekistonda tug'ilib o'sganmiz; sayohatlarni katalogdan emas, shaxsiy bilimdan quramiz.",
+    "point2Title": "Shablon emas, individual",
+    "point2Body": "Har bir marshrut sizning suratingiz, qiziqishlaringiz va byudjetingizga moslab tuziladi — o'rtacha qulaylikdan haqiqiy hashamatgacha.",
+    "point3Title": "His qilinadigan ishonchlilik",
+    "point3Body": "Litsenziya, sug'urta va kunduzu-tun aloqa, tekshirilgan gidlar, haydovchilar va saralangan mehmonxonalar.",
+    "point4Title": "Ajoyib xizmat",
+    "point4Body": "Birinchi xabaringizdan uyga qaytguningizgacha bitta shaxsiy sayohat dizayneri."
+  },
+  "testimonials": {
+    "eyebrow": "Sayohatchilar hikoyalari",
+    "title": "Mehmonlarimiz nima deydi",
+    "subtitle": "O'zbekistonni Nexatlas bilan kashf etgan sayohatchilarning haqiqiy so'zlari."
+  },
+  "journal": {
+    "eyebrow": "Sayohat qo'llanmasi",
+    "title": "Hikoyalar va amaliy qo'llanmalar",
+    "subtitle": "Unutilmas O'zbekiston sayohatini rejalashtirish uchun ichki bilimlar.",
+    "cta": "Qo'llanmani o'qish"
+  },
+  "inquiry": {
+    "eyebrow": "Rejalashtirishni boshlang",
+    "title": "Sayohatni rejalashtirish",
+    "subtitle": "Sayohat orzularingizni ayting, Nexatlas dizayneri shaxsiy taklif tayyorlaydi — bepul va majburiyatsiz.",
+    "name": "To'liq ism",
+    "email": "Email manzil",
+    "phone": "Telefon / WhatsApp",
+    "country": "Yashash davlati",
+    "travelers": "Sayohatchilar soni",
+    "dates": "Taxminiy sayohat sanalari",
+    "interests": "Sayohat qiziqishlari",
+    "budget": "Byudjet doirasi",
+    "message": "Orzuingizdagi sayohat haqida ayting",
+    "submit": "Bepul taklif so'rash",
+    "responseNote": "Biz odatda 24 soat ichida javob beramiz.",
+    "successTitle": "Rahmat!",
+    "successBody": "So'rovingiz qabul qilindi. Nexatlas sayohat dizayneri 24 soat ichida bog'lanadi."
+  },
+  "footer": {
+    "about": "Nexatlas — Ipak yo'li bo'ylab premium kiruvchi turizmga ixtisoslashgan, O'zbekistonda litsenziyalangan turoperator.",
+    "explore": "Kashf etish",
+    "company": "Kompaniya",
+    "support": "Yordam",
+    "followUs": "Bizni kuzating",
+    "newsletterTitle": "Ipak yo'li ilhomlari pochtangizda",
+    "newsletterBody": "Sayohat g'oyalari, mavsumiy maslahatlar va eksklyuziv turlar.",
+    "subscribe": "Obuna bo'lish",
+    "emailPlaceholder": "Sizning email",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+    "cookies": "Cookie siyosati"
+  }
+}

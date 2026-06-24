@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-midnight: #1b2a4a;
+  --color-gold: #c8a04b;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-ink font-sans antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* RTL support for Arabic & Persian */
+[dir='rtl'] body {
+  font-family: var(--font-sans), 'Tahoma', system-ui, sans-serif;
+}
+
+@layer components {
+  .container-px {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8 lg:px-10;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold tracking-wide transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2;
+  }
+  .btn-primary {
+    @apply btn bg-gold text-ink hover:bg-gold-dark hover:text-white shadow-soft;
+  }
+  .btn-secondary {
+    @apply btn border border-white/70 bg-white/10 text-white backdrop-blur hover:bg-white hover:text-midnight;
+  }
+  .btn-dark {
+    @apply btn bg-midnight text-white hover:bg-midnight-600;
+  }
+  .btn-outline {
+    @apply btn border border-midnight/20 text-midnight hover:border-midnight hover:bg-midnight hover:text-white;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.22em] text-gold-dark;
+  }
+  .section {
+    @apply py-16 sm:py-20 lg:py-28;
+  }
+  .heading-display {
+    @apply font-display font-semibold leading-tight text-midnight;
+  }
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-card;
+  }
+  .link-underline {
+    @apply relative after:absolute after:bottom-0 after:left-0 after:h-px after:w-0 after:bg-gold after:transition-all hover:after:w-full;
+  }
+}
+
+/* Subtle Silk Road tile pattern used as graceful image fallback */
+.tile-fallback {
+  background-color: var(--color-midnight);
+  background-image: radial-gradient(circle at 20% 20%, rgba(200, 160, 75, 0.28), transparent 45%),
+    radial-gradient(circle at 80% 0%, rgba(200, 160, 75, 0.18), transparent 40%),
+    radial-gradient(circle at 50% 100%, rgba(36, 58, 99, 0.9), transparent 60%);
+}
